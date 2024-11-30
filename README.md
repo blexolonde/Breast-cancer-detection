@@ -56,7 +56,7 @@ This project analyzes breast cancer data to answer critical questions about the 
    - Summarization of findings and implications for breast cancer diagnosis.
 
 ## How to Use
-1. Open the restructured notebook (`Breast_Cancer_Detection_Restructured.ipynb`).
+1. Open the restructured notebook (`Breast_Cancer_Detection.ipynb`).
 2. Follow the analysis in a step-by-step manner, starting with the Introduction.
 3. Review each section to explore answers to the questions posed.
 
